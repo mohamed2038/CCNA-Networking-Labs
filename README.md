@@ -21,7 +21,8 @@ This repository showcases my hands-on networking labs and practical projects as 
 * DHCP Relay
 * VTP
 * Spanning Tree Protocol -STP -1-
-* 07-Spanning Tree Protocol -STP -2-
+* Spanning Tree Protocol -STP -2-
+* Port Security
 * IPv4 Networking
 * Network Troubleshooting
 * TCP/IP
@@ -38,13 +39,14 @@ This repository showcases my hands-on networking labs and practical projects as 
 | 06 | [VTP](./VTP)        | VLAN Trunking Protocol                     |
 | 07 | [Spanning Tree Protocol -STP -1-](./STP-1-)| Protocol STP        |
 | 08 | [Spanning Tree Protocol -STP -2-](./STP-2-)| Protocol STP        |
-| 09 | EtherChannel        | Coming Soon                                |
-| 10 | OSPF                | Coming Soon                                |
-| 11 | ACL                 | Coming Soon                                |
+| 09 |Port Security        | Coming Soon                                |
+| 10 | EtherChannel        | Coming Soon                                |
+| 11 | OSPF                | Coming Soon                                |
+| 12 | ACL                 | Coming Soon                                |
 
 
 
-
+Port Security
 
 
 ## 🔍 What Each Lab Includes
