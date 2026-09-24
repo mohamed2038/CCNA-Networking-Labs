@@ -31,15 +31,15 @@ This repository showcases my hands-on networking labs and practical projects as 
 
 | #  | Lab                 | Topics                                     |
 |---|---|---|
-| 01 | [Basic Configuration](./01-Basic-Configuration) | Cisco IOS, hostname, passwords, interfaces |
-| 02 | [VLAN](./02-VLAN) | VLAN creation, access ports |
-| 03 | [Inter-VLAN Routing](./03-Inter-VLAN ) | Router-on-a-Stick, 802.1Q |
-| 04 | [DHCP Server](./04-DHCP )| DHCP, VLANs, Router-on-a-Stick |
-| 05 | [DHCP Relay](./05DHCP  )      | DHCP Relay Agent               |
-| 06 | [VTP](./06VTP)        | VLAN Trunking Protocol                     |
-| 07 | [Spanning Tree Protocol -STP -1-](./STP-1-)| Protocol STP        |
-| 08 | [Spanning Tree Protocol -STP -2-](./STP-2-)| Protocol STP        |
-| 09 |[Port Security](./09-PortSecurity)          | Port Security                                |
+| 01 | [Basic Configuration] | Cisco IOS, hostname, passwords, interfaces |
+| 02 | [VLAN] | VLAN creation, access ports |
+| 03 | [Inter-VLAN Routing] | Router-on-a-Stick, 802.1Q |
+| 04 | [DHCP Server]| DHCP, VLANs, Router-on-a-Stick |
+| 05 | [DHCP Relay]      | DHCP Relay Agent               |
+| 06 | [VTP]        | VLAN Trunking Protocol                     |
+| 07 | [Spanning Tree Protocol -STP -1-]| Protocol STP        |
+| 08 | [Spanning Tree Protocol -STP -2-]| Protocol STP        |
+| 09 |[Port Security]          | Port Security                                |
 | 10 | EtherChannel        | Coming Soon                                |
 | 11 | OSPF                | Coming Soon                                |
 | 12 | ACL                 | Coming Soon                                |
