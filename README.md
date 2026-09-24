@@ -6,9 +6,9 @@ This repository documents my practical learning journey through real configurati
 
 ## 👨‍💻 About Me
 
-**IT Infrastructure / Systems & Network Administrator** with practical experience in IT infrastructure, systems administration, networking, and technical support.
+*IT Infrastructure / Systems & Network Administrator with practical experience in IT infrastructure, systems administration, networking, and technical support.
 
-Currently strengthening my networking skills through hands-on Cisco CCNA labs and building a professional Infrastructure Portfolio.
+This repository showcases my hands-on networking labs and practical projects as I continue developing my expertise in infrastructure engineering.
 
 ## 🛠️ Technologies & Skills
 
