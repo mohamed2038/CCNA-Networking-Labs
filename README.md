@@ -12,16 +12,13 @@ This repository showcases my hands-on networking labs and practical projects as 
 
 ## 🛠️ Technologies & Skills
 
-* Cisco IOS
-* Cisco Packet Tracer
 * VLAN & Trunking
 * Inter-VLAN Routing
 * Router-on-a-Stick
-* DHCP
+* DHCP 
 * DHCP Relay
 * VTP
-* Spanning Tree Protocol -STP -1-
-* Spanning Tree Protocol -STP -2-
+* Spanning Tree Protocol -STP 
 * Port Security
 * IPv4 Networking
 * Network Troubleshooting
