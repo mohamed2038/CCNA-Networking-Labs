@@ -30,7 +30,7 @@ This repository showcases my hands-on networking labs and practical projects as 
 
 | #  | Lab                 | Topics                                     |
 |---|---|---|
-| 01 | [Basic Configuration](./Basic-Configuration) | Cisco IOS, hostname, passwords, interfaces |
+| 01 | [Basic Configuration](./01-Basic-Configuration) | Cisco IOS, hostname, passwords, interfaces |
 | 02 | [VLAN](./VLAN) | VLAN creation, access ports |
 | 03 | [Inter-VLAN Routing](./Inter-VLAN-Routing) | Router-on-a-Stick, 802.1Q |
 | 04 | [DHCP Server](./DHCP-Server)| DHCP, VLANs, Router-on-a-Stick |
