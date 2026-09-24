@@ -12,6 +12,7 @@ This repository showcases my hands-on networking labs and practical projects as 
 
 ## 🛠️ Technologies & Skills
 
+* Basic-Configuration
 * VLAN & Trunking
 * Inter-VLAN Routing
 * Router-on-a-Stick
