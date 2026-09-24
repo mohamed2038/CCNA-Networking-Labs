@@ -34,7 +34,7 @@ This repository showcases my hands-on networking labs and practical projects as 
 | 01 | [Basic Configuration](./01-Basic-Configuration) | Cisco IOS, hostname, passwords, interfaces |
 | 02 | [VLAN](./02-VLAN) | VLAN creation, access ports |
 | 03 | [Inter-VLAN Routing](./03-Inter-VLAN ) | Router-on-a-Stick, 802.1Q |
-| 04 | [DHCP Server](./DHCP-Server)| DHCP, VLANs, Router-on-a-Stick |
+| 04 | [DHCP Server](./04-DHCP Server On Cisco Router withVLAN and Router on A Stick)| DHCP, VLANs, Router-on-a-Stick |
 | 05 | [DHCP Relay](./DHCP  )      | DHCP Relay Agent               |
 | 06 | [VTP](./VTP)        | VLAN Trunking Protocol                     |
 | 07 | [Spanning Tree Protocol -STP -1-](./STP-1-)| Protocol STP        |
