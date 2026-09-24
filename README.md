@@ -20,7 +20,8 @@ This repository showcases my hands-on networking labs and practical projects as 
 * DHCP
 * DHCP Relay
 * VTP
-* STP / Rapid-PVST
+* Spanning Tree Protocol -STP -1-
+* 07-Spanning Tree Protocol -STP -2-
 * IPv4 Networking
 * Network Troubleshooting
 * TCP/IP
@@ -33,12 +34,18 @@ This repository showcases my hands-on networking labs and practical projects as 
 | 02 | [VLAN](./VLAN) | VLAN creation, access ports |
 | 03 | [Inter-VLAN Routing](./Inter-VLAN-Routing) | Router-on-a-Stick, 802.1Q |
 | 04 | [DHCP Server](./DHCP-Server)| DHCP, VLANs, Router-on-a-Stick |
-| 05 | DHCP Relay          | DHCP Relay Agent                           |
-| 06 | VTP                 | VLAN Trunking Protocol                     |
-| 07 | STP / Rapid-PVST    | Coming Soon                                |
-| 08 | EtherChannel        | Coming Soon                                |
-| 09 | OSPF                | Coming Soon                                |
-| 10 | ACL                 | Coming Soon                                |
+| 05 | [DHCP Relay](./DHCP  )      | DHCP Relay Agent               |
+| 06 | [VTP](./VTP)        | VLAN Trunking Protocol                     |
+| 07 | [Spanning Tree Protocol -STP -1-](./STP-1-)| Protocol STP        |
+| 08 | [Spanning Tree Protocol -STP -2-](./STP-2-)| Protocol STP        |
+| 09 | EtherChannel        | Coming Soon                                |
+| 10 | OSPF                | Coming Soon                                |
+| 11 | ACL                 | Coming Soon                                |
+
+
+
+
+
 
 ## 🔍 What Each Lab Includes
 
