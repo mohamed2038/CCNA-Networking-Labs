@@ -39,7 +39,7 @@ This repository showcases my hands-on networking labs and practical projects as 
 | 06 | [VTP](./06VTP)        | VLAN Trunking Protocol                     |
 | 07 | [Spanning Tree Protocol -STP -1-](./STP-1-)| Protocol STP        |
 | 08 | [Spanning Tree Protocol -STP -2-](./STP-2-)| Protocol STP        |
-| 09 |Port Security        | Coming Soon                                |
+| 09 |[Port Security](./09-PortSecurity)          | Port Security                                |
 | 10 | EtherChannel        | Coming Soon                                |
 | 11 | OSPF                | Coming Soon                                |
 | 12 | ACL                 | Coming Soon                                |
