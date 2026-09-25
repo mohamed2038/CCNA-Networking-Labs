@@ -22,6 +22,7 @@ This repository showcases my hands-on networking labs and practical projects as 
 * Spanning Tree Protocol -STP 
 * Port Security
 * EtherChannel
+* Routing Vlans Layer 3 Switch
 * IPv4 Networking
 * Network Troubleshooting
 * TCP/IP
