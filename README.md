@@ -39,9 +39,10 @@ This repository showcases my hands-on networking labs and practical projects as 
 | 07 | [Spanning Tree Protocol -STP -1-]| Protocol STP        |
 | 08 | [Spanning Tree Protocol -STP -2-]| Protocol STP        |
 | 09 |[Port Security]          | Port Security                |
-| 10 | EtherChannel        | Protocol LACP & Protocol PAGP    |
-| 11 | OSPF                | Coming Soon                                |
-| 12 | ACL                 | Coming Soon                                |
+| 10 | EtherChannel        | Protocol LACP & Protocol PAGP 
+| 11 |Routing Vlans Layer 3 Switch | ip routing               |
+| 12 | OSPF                | Coming Soon                                |
+| 13 | ACL                 | Coming Soon                                |
 
 
 
